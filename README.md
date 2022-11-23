@@ -10,13 +10,13 @@ Criar uma bateria virtual com 9 teclas que ao serem acionadas cada uma delas dev
 
 ### Objetivo
 
-Criar um relógio com horas, minutos e segundos.
+Criar um relógio digital e outro analógico, com horas, minutos e segundos.
 
 ## Projeto 3 - [Clima](https://luisfelipefrancisco.github.io/Desafio-Javascript-7-Projetos-em-7-Dias/Projeto03-Clima/index.html)
 
 ### Objetivo
 
-Criar um site que mostra o clima de uma cidade.
+Criar um site que mostra o clima de uma cidade, usando requisição via API.
 
 ## Projeto 4 - [Jogo da Velha](https://luisfelipefrancisco.github.io/Desafio-Javascript-7-Projetos-em-7-Dias/Projeto04-TicTacToe/index.html)
 
