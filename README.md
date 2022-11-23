@@ -1,10 +1,5 @@
 # [Desafio Javascript 7 Projetos em 7 Dias](https://luisfelipefrancisco.github.io/Desafio-Javascript-7-Projetos-em-7-Dias/)
 
-### Tecnologias
-
-- HTML
-- CSS
-- Javascript
 
 ## Projeto 1 - [Bateria](https://luisfelipefrancisco.github.io/Desafio-Javascript-7-Projetos-em-7-Dias/Projeto01-Bateria/index.html)
 
