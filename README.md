@@ -10,7 +10,7 @@
 
 ### Objetivo
 
-Criar uma bateria virtual com 7 teclas e ao clicar em cada uma delas deve tocar um som diferente.
+Criar uma bateria virtual com 6 teclas e ao digitar em cada uma delas deve tocar um som diferente.
 
 ## Projeto 2 - [Relógio](https://luisfelipefrancisco.github.io/Desafio-Javascript-7-Projetos-em-7-Dias/Projeto02-Rel%C3%B3gio/index.html)
 
