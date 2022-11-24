@@ -28,3 +28,8 @@ Criar um jogo da velha.
 ### Objetivo
 
 Criar um canvas que ao ser clicado e arrastado desenhe uma linha.
+
+## Projeto 6 - [Quiz](https://luisfelipefrancisco.github.io/Desafio-Javascript-7-Projetos-em-7-Dias/Projeto06-Quiz/index.html) 
+### Objetivo
+
+Criar um quiz com perguntas e respostas.
