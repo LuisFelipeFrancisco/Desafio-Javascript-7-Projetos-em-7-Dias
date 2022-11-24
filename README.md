@@ -37,4 +37,4 @@ Criar um quiz com perguntas e respostas.
 ## Projeto 7 - [Arrastar e Soltar](https://luisfelipefrancisco.github.io/Desafio-Javascript-7-Projetos-em-7-Dias/Projeto07-DragAndDrop/index.html)
 ### Objetivo
 
-Criar um site que ao arrastar e soltar os elementos, eles ficam em novas posiçoes.
+Criar um site que ao arrastar e soltar os cards eles sejam movimentados.
