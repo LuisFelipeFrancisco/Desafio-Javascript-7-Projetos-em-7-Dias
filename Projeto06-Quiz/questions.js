@@ -1,6 +1,6 @@
 let questions = [
     {
-        question: 'Em qual elemento HTML nós colocamos o javascript?',
+        question: 'Em qual elemento HTML nós colocamos o JavaScript?',
         options: [
             'tag js',
             'tag script',
@@ -10,7 +10,7 @@ let questions = [
         answer: 1
     },
     {
-        question: 'Onde é o local certo de colocar o javascript?',
+        question: 'Onde é o local certo de colocar o JavaScript?',
         options: [
             'Na tag body',
             'Na tag head',
@@ -19,7 +19,7 @@ let questions = [
         answer: 2
     },
     {
-        question: 'Qual a sintaxe correta para adicionar um arquivo javascript externo na tag script?',
+        question: 'Qual a sintaxe correta para adicionar um arquivo JavaScript externo na tag script?',
         options: [
             'name="xxx.js"',
             'src="xxx.js"',
@@ -28,7 +28,7 @@ let questions = [
         answer: 1
     },
     {
-        question: 'Um arquivo javascript externo precisa ter a tag script',
+        question: 'Um arquivo JavaScript externo precisa ter a tag script',
         options: [
             'Verdade',
             'Falso'
