@@ -23,3 +23,8 @@ Criar um site que mostra o clima de uma cidade, usando requisição via API.
 ### Objetivo
 
 Criar um jogo da velha.
+
+## Projeto 5 - [Canvas](https://luisfelipefrancisco.github.io/Desafio-Javascript-7-Projetos-em-7-Dias/Projeto05-Canvas/index.html)
+### Objetivo
+
+Criar um canvas que ao ser clicado e arrastado desenhe uma linha.
