@@ -49,7 +49,7 @@ function draw(x, y) {
     let pointY = y - screen.offsetTop;
 
     ctx.beginPath();
-    ctx.lineWidth = 10;
+    ctx.lineWidth = 2;
     ctx.lineJoin = "round";
     ctx.moveTo(mouseX, mouseY);
     ctx.lineTo(pointX, pointY);
