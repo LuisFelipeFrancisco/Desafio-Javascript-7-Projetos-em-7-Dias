@@ -33,3 +33,8 @@ Criar um canvas que ao ser clicado e arrastado desenhe uma linha.
 ### Objetivo
 
 Criar um quiz com perguntas e respostas.
+
+## Projeto 7 - [Arrastar e Soltar](https://luisfelipefrancisco.github.io/Desafio-Javascript-7-Projetos-em-7-Dias/Projeto07-DragAndDrop/index.html)
+### Objetivo
+
+Criar um site que ao arrastar e soltar os elementos, eles sejam colocados em ordem.
