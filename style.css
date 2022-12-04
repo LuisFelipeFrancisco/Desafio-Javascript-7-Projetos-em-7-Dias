@@ -1,48 +1,36 @@
 body {
-    background-color: rgb(69, 69, 69);
-    font: 13pt Arial;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    margin: 0;
 }
 
 main {
-    background-color: white;
-    width: 500px;
-    padding: 20px;
-    margin: auto;
-    border-radius: 10px;
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.529);
+    margin: 0 auto;
+    max-width: 960px;
+    padding: 0 15px;
 }
 
 h1 {
-    color: darkgoldenrod;
+    font-size: 36px;
+    font-weight: 300;
+    line-height: 1.1;
+    margin: 20px 0;
 }
 
 h2 {
-    color: rgb(125, 92, 8);
-}
-
-aside {
-    display: block; 
-    font-size: 10pt;
-    text-align: justify;
-    background-color: rgb(222, 222, 222);
-    padding: 10px;
-    border-radius: 10px;
-    margin-bottom: 10px;
-}
-
-aside img {
-    width: 60px; 
-    display: block; 
-    float: left;
-    margin-right: 10px;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 1.1;
+    margin: 20px 0;
 }
 
 a, a:visited {
-    color: rgb(34, 34, 34);
-    font-weight: bolder;
+    color: #ffffff;
 }
 
 a:hover {
-    color: darkgoldenrod;
-    text-decoration: none;
+    color: #dddddd;
 }
